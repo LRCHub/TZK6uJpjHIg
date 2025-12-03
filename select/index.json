@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "WINNERS FOREVER ～勝利者よ～",
+  "base_artist": "infix",
+  "createdAt": "2025-12-03T13:52:46.638376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WINNERS FOREVER -勝利者よ-",
+      "artist": "INFIX",
+      "has_synced": true,
+      "path": "select/01_WINNERS_FOREVER_-勝利者よ-_INFIX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WINNERS FOREVER 〜勝利者よ〜 [WINNERS FOREVER ~Shourisha yo~]",
+      "artist": "INFIX",
+      "has_synced": true,
+      "path": "select/02_WINNERS_FOREVER_〜勝利者よ〜_[WINNERS_FOREVER_~Shourisha_yo~]_INFIX.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WINNERS FOREVER－勝利者よ－",
+      "artist": "INFIX",
+      "has_synced": true,
+      "path": "select/03_WINNERS_FOREVER-勝利者よ-_INFIX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WINNERS FOREVER ~Shourisha yo~",
+      "artist": "INFIX",
+      "has_synced": true,
+      "path": "select/04_WINNERS_FOREVER_~Shourisha_yo~_INFIX.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WINNERS FOREVER ～勝利者よ～",
+      "artist": "infix",
+      "has_synced": true,
+      "path": "select/05_WINNERS_FOREVER_~勝利者よ~_infix.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WINNERS FOREVER ～勝利者よ～",
+      "artist": "GUNDAM",
+      "has_synced": true,
+      "path": "select/06_WINNERS_FOREVER_~勝利者よ~_GUNDAM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "WINNERS FOREVER ～Shorisha-yo～",
+      "artist": "infix",
+      "has_synced": true,
+      "path": "select/07_WINNERS_FOREVER_~Shorisha-yo~_infix.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WINNERS FOREVER",
+      "artist": "INFIX",
+      "has_synced": false,
+      "path": "select/pl_01_WINNERS_FOREVER_INFIX.txt"
+    }
+  ]
+}
